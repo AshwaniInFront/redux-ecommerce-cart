@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/AshwaniInFront/redux-ecommerce-cart/static/css/main.31d6cfe0.css",
+    "main.js": "/AshwaniInFront/redux-ecommerce-cart/static/js/main.6c7d7f95.js",
+    "index.html": "/AshwaniInFront/redux-ecommerce-cart/index.html",
+    "main.6c7d7f95.js.map": "/AshwaniInFront/redux-ecommerce-cart/static/js/main.6c7d7f95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6c7d7f95.js"
+  ]
+}
